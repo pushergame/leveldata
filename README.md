@@ -1,2 +1,2 @@
-# leveldata
-Public level data for the strategic game Pusher
+# Pusher Level Data
+Public level data for the strategic game Pusher.
